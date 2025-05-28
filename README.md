@@ -6,7 +6,7 @@ AS Project Portfolio is a lightweight, user-friendly WordPress plugin that helps
 - Custom post type for Projects
 - Custom fields: Description, Client, Completion Date, URL
 - Admin dashboard to list all projects
-- Shortcode to display projects: `[project_portfolio]`
+- Shortcode to display projects: `[as-project_portfolio]`
 - Display project details on single project pages
 
 ## Installation
