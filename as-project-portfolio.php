@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: AS Project Portfolio
-Plugin URI: https://github.com/AhmedShaikh0/project-portfolio
+Plugin URI: https://github.com/AhmedShaikh0/as-project-portfolio
 Description: Adds a custom post type for managing and displaying project portfolios.
 Version: 1.0.0
 Author: Ahmed Shaikh
