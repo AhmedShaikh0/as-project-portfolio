@@ -12,7 +12,7 @@ AS Project Portfolio is a lightweight, user-friendly WordPress plugin that helps
 ## Installation
 1. Upload the as-project-portfolio.php file to your `/wp-content/plugins/` directory or upload the zip file in the plugins section.
 2. Activate the plugin via the Plugins menu.
-3. Use the shortcode `[project_portfolio]` to display your projects.
+3. Use the shortcode `[as-project_portfolio]` to display your projects.
 
 ## Usage
 ![Image Alt Text](https://github.com/AhmedShaikh0/as-project-portfolio/blob/main/images/plugin1.png)
