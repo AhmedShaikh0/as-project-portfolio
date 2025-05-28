@@ -10,7 +10,7 @@ AS Project Portfolio is a lightweight, user-friendly WordPress plugin that helps
 - Display project details on single project pages
 
 ## Installation
-1. Upload the project-portfolio.php file to your `/wp-content/plugins/` directory.
+1. Upload the as-project-portfolio.php file to your `/wp-content/plugins/` directory or upload the zip file in the plugins section.
 2. Activate the plugin via the Plugins menu.
 3. Use the shortcode `[project_portfolio]` to display your projects.
 
