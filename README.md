@@ -15,9 +15,9 @@ AS Project Portfolio is a lightweight, user-friendly WordPress plugin that helps
 3. Use the shortcode `[project_portfolio]` to display your projects.
 
 ## Usage
-![Image Alt Text](https://github.com/AhmedShaikh0/project-portfolio/blob/main/images/plugin-img.png)
-![Image Alt Text](https://github.com/AhmedShaikh0/project-portfolio/blob/main/images/plugin-2.png)
-![Image Alt Text](https://github.com/AhmedShaikh0/project-portfolio/blob/main/images/plugin-dashboard.png)
+![Image Alt Text](https://github.com/AhmedShaikh0/as-project-portfolio/blob/main/images/plugin-img.png)
+![Image Alt Text](https://github.com/AhmedShaikh0/as-project-portfolio/blob/main/images/plugin-2.png)
+![Image Alt Text](https://github.com/AhmedShaikh0/as-project-portfolio/blob/main/images/plugin-dashboard.png)
 
 ##  Contribute
 Got ideas or improvements? Pull requests are welcome!
